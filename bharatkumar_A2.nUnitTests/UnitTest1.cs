@@ -17,7 +17,7 @@ public class Tests
     //test1
 
     [Test]
-    public void AnalyzeTriangle_OutputvalidISOSCELESTriangle1()
+    public void AnalyzeTriangle_Outputvalid_ISOSCELESTriangle1()
     {
         //Arrange
 
@@ -39,7 +39,7 @@ public class Tests
     //test2
 
     [Test]
-    public void AnalyzeTriangle_OutputvalidEQUILATERALTriangle1()
+    public void AnalyzeTriangle_Outputvalid_EQUILATERALTriangle1()
     {
         //Arrange
 
@@ -61,7 +61,7 @@ public class Tests
     //test3
 
     [Test]
-    public void AnalyzeTriangle_OutputvalidISOSCELESTriangle2()
+    public void AnalyzeTriangle_Outputvalid_ISOSCELESTriangle2()
     {
         //Arrange
 
@@ -83,7 +83,7 @@ public class Tests
     //test4
 
     [Test]
-    public void AnalyzeTriangle_OutputvalidSCALENETriangle1()
+    public void AnalyzeTriangle_Outputvalid_SCALENETriangle1()
     {
         //Arrange
 
@@ -105,7 +105,7 @@ public class Tests
     //test5
 
     [Test]
-    public void AnalyzeTriangle_OutputvalidSCALENETriangle2()
+    public void AnalyzeTriangle_Outputvalid_SCALENETriangle2()
     {
         //Arrange
 
@@ -127,7 +127,7 @@ public class Tests
     //test6
 
     [Test]
-    public void AnalyzeTriangle_OutputvalidSCALENETriangle3()
+    public void AnalyzeTriangle_Outputvalid_SCALENETriangle3()
     {
         //Arrange
 
@@ -149,7 +149,7 @@ public class Tests
     //test7
 
     [Test]
-    public void AnalyzeTriangle_OutputValidScaleneTriangle4()
+    public void AnalyzeTriangle_OutputValid_ScaleneTriangle4()
     { 
         //Arrange
 
@@ -172,7 +172,7 @@ public class Tests
 
     [Test]
 
-    public void AnalyzeTriangle_OutputValidIsoscelesTriangle3()
+    public void AnalyzeTriangle_OutputValid_IsoscelesTriangle3()
     {
         // Arrange
 
@@ -194,7 +194,7 @@ public class Tests
     //test9
 
     [Test]
-    public void AnalyzeTriangle_OutputvalidSCALENETriangle5()
+    public void AnalyzeTriangle_Outputvalid_SCALENETriangle5()
     {
         //Arrange
 
@@ -216,7 +216,7 @@ public class Tests
     //test10
 
     [Test]
-    public void AnalyzeTriangle_OutputvalidInvalidOutput1()
+    public void AnalyzeTriangle_Outputvalid_InvalidOutput1()
     {
         //Arrange
 
@@ -285,7 +285,7 @@ public class Tests
 
     [Test]
 
-    public void AnalyzeTriangle_invalidNumbers1()
+    public void AnalyzeTriangle_InvalidNumbers1()
     {
         //Arrange
 

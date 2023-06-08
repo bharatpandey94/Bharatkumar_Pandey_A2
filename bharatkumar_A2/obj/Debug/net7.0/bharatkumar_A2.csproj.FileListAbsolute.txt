@@ -1,0 +1,15 @@
+/Users/bharatpandey/Projects/bharatkumar_A2/bharatkumar_A2/bin/Debug/net7.0/bharatkumar_A2
+/Users/bharatpandey/Projects/bharatkumar_A2/bharatkumar_A2/bin/Debug/net7.0/bharatkumar_A2.deps.json
+/Users/bharatpandey/Projects/bharatkumar_A2/bharatkumar_A2/bin/Debug/net7.0/bharatkumar_A2.runtimeconfig.json
+/Users/bharatpandey/Projects/bharatkumar_A2/bharatkumar_A2/bin/Debug/net7.0/bharatkumar_A2.dll
+/Users/bharatpandey/Projects/bharatkumar_A2/bharatkumar_A2/bin/Debug/net7.0/bharatkumar_A2.pdb
+/Users/bharatpandey/Projects/bharatkumar_A2/bharatkumar_A2/obj/Debug/net7.0/bharatkumar_A2.csproj.AssemblyReference.cache
+/Users/bharatpandey/Projects/bharatkumar_A2/bharatkumar_A2/obj/Debug/net7.0/bharatkumar_A2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bharatpandey/Projects/bharatkumar_A2/bharatkumar_A2/obj/Debug/net7.0/bharatkumar_A2.AssemblyInfoInputs.cache
+/Users/bharatpandey/Projects/bharatkumar_A2/bharatkumar_A2/obj/Debug/net7.0/bharatkumar_A2.AssemblyInfo.cs
+/Users/bharatpandey/Projects/bharatkumar_A2/bharatkumar_A2/obj/Debug/net7.0/bharatkumar_A2.csproj.CoreCompileInputs.cache
+/Users/bharatpandey/Projects/bharatkumar_A2/bharatkumar_A2/obj/Debug/net7.0/bharatkumar_A2.dll
+/Users/bharatpandey/Projects/bharatkumar_A2/bharatkumar_A2/obj/Debug/net7.0/refint/bharatkumar_A2.dll
+/Users/bharatpandey/Projects/bharatkumar_A2/bharatkumar_A2/obj/Debug/net7.0/bharatkumar_A2.pdb
+/Users/bharatpandey/Projects/bharatkumar_A2/bharatkumar_A2/obj/Debug/net7.0/bharatkumar_A2.genruntimeconfig.cache
+/Users/bharatpandey/Projects/bharatkumar_A2/bharatkumar_A2/obj/Debug/net7.0/ref/bharatkumar_A2.dll

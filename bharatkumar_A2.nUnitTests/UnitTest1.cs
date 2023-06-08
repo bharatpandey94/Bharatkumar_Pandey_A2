@@ -216,7 +216,7 @@ public class Tests
     //test10
 
     [Test]
-    public void AnalyzeTriangle_Input20and20and20_OutputvalidEquilateralTriangle()
+    public void AnalyzeTriangle_OutputvalidInvalidOutput1()
     {
         //Arrange
 
@@ -239,15 +239,15 @@ public class Tests
 
     [Test]
 
-    public void AnalyzeTriangle_Input20and20and20_OutputvalidEquilateralTriangle()
+    public void AnalyzeTriangle_InvalidOutput2()
     {
         //Arrange
 
         int side_1 = 20;
-        int side_2 = 20;
+        int side_2 = 0;
         int side_3 = 20;
 
-        string expected = "The triangle is valid and is an EQUILATERAL";
+        string expected = "At least one side of your triangle has a zero length and is thus invalid";
 
         //Act
 
@@ -262,15 +262,15 @@ public class Tests
 
     [Test]
 
-    public void AnalyzeTriangle_Input20and20and20_OutputvalidEquilateralTriangle()
+    public void AnalyzeTriangle_InvalidOutput3()
     {
         //Arrange
 
-        int side_1 = 20;
+        int side_1 = 10;
         int side_2 = 20;
-        int side_3 = 20;
+        int side_3 = 0;
 
-        string expected = "The triangle is valid and is an EQUILATERAL";
+        string expected = "At least one side of your triangle has a zero length and is thus invalid";
 
         //Act
 
@@ -285,15 +285,15 @@ public class Tests
 
     [Test]
 
-    public void AnalyzeTriangle_Input20and20and20_OutputvalidEquilateralTriangle()
+    public void AnalyzeTriangle_invalidNumbers1()
     {
         //Arrange
 
-        int side_1 = 20;
-        int side_2 = 20;
-        int side_3 = 20;
+        int side_1 = 12;
+        int side_2 = -14;
+        int side_3 = -12;
 
-        string expected = "The triangle is valid and is an EQUILATERAL";
+        string expected = "A triangle cannot be formed with those numbers";
 
         //Act
 
@@ -308,15 +308,15 @@ public class Tests
 
     [Test]
 
-    public void AnalyzeTriangle_Input20and20and20_OutputvalidEquilateralTriangle()
+    public void AnalyzeTriangle_InvalidNumber2()
     {
         //Arrange
 
-        int side_1 = 20;
+        int side_1 = -20;
         int side_2 = 20;
-        int side_3 = 20;
+        int side_3 = -21;
 
-        string expected = "The triangle is valid and is an EQUILATERAL";
+        string expected = "A triangle cannot be formed with those numbers";
 
         //Act
 
@@ -331,15 +331,15 @@ public class Tests
 
     [Test]
 
-    public void AnalyzeTriangle_Input20and20and20_OutputvalidEquilateralTriangle()
+    public void AnalyzeTriangle_InvalidNumber3()
     {
         //Arrange
 
-        int side_1 = 20;
-        int side_2 = 20;
-        int side_3 = 20;
+        int side_1 = 21;
+        int side_2 = -12;
+        int side_3 = 22;
 
-        string expected = "The triangle is valid and is an EQUILATERAL";
+        string expected = "A triangle cannot be formed with those numbers";
 
         //Act
 
